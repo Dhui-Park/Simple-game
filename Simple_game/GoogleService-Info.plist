@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA2eG-SfAfaD-tMecBDmvTDbN3CUBEjT2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>22636440997</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dhui.Simple-game</string>
+	<key>PROJECT_ID</key>
+	<string>simple-game-5c5ae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simple-game-5c5ae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:22636440997:ios:55ff0b21a99e29e49c4c4c</string>
+</dict>
+</plist>
